@@ -1,0 +1,9 @@
+module.exports={
+    data:[
+        "https://d.vpimg1.com/upcb/2020/02/15/44/ias_158175392499477_570x273_90.jpg",
+        "https://d.vpimg1.com/upcb/2020/02/14/111/ias_1d4dcf15-7ce7-457f-b25b-8a47199d9f24_570x273_90.jpg",
+        "https://c.vpimg1.com/upcb/2019/11/26/161/ias_92bd46e5-2a83-4ae0-acc1-15a4d2d2e062_570x273_90.jpg",
+        "https://d.vpimg1.com/upcb/2019/11/25/87/ias_eee7eb59-050a-4779-bc09-9de05d6530b2_570x273_90.jpg",
+        "https://c.vpimg1.com/upcb/2020/02/23/129/ias_158242239512159_570x273_90.jpg",
+    ]
+}

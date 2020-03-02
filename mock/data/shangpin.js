@@ -1,0 +1,19 @@
+module.exports = {
+    status:200,
+    data:[
+        {
+            id:1,
+            title:'香奈儿五号香水',
+            price:'598',
+            address:'天猫',
+            img:'https://img.alicdn.com/bao/uploaded/i2/4207517744/O1CN01Mw4d07274ncK13BOv_!!4207517744.jpg'
+        },
+        {
+            id:2,
+            title:'香奈儿丝绒口红',
+            price:'598',
+            address:'天猫',
+            img:'https://img.alicdn.com/imgextra/i1/251970057/O1CN01ULf0XV1CI99qEMT7Y_!!0-saturn_solar.jpg_220x220.jpg'
+        }
+    ]
+}
